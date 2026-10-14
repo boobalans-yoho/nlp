@@ -1,0 +1,3 @@
+Model,Accuracy,Macro F1,Status
+TF-IDF + Logistic Regression,1.0,1.0,completed
+Average GloVe + Logistic Regression,,,unavailable: GloVe evaluation requires a Python-compatible gensim install. Install gensim or rerun with --skip-glove.

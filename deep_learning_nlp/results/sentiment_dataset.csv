@@ -1,0 +1,601 @@
+text,label,clean_text
+The application was amazing.,positive,the application was amazing
+I found the application amazing.,positive,i found the application amazing
+"Overall, the application feels amazing.",positive,overall the application feels amazing
+The delivery was amazing.,positive,the delivery was amazing
+I found the delivery amazing.,positive,i found the delivery amazing
+"Overall, the delivery feels amazing.",positive,overall the delivery feels amazing
+The experience was amazing.,positive,the experience was amazing
+I found the experience amazing.,positive,i found the experience amazing
+"Overall, the experience feels amazing.",positive,overall the experience feels amazing
+The interface was amazing.,positive,the interface was amazing
+I found the interface amazing.,positive,i found the interface amazing
+"Overall, the interface feels amazing.",positive,overall the interface feels amazing
+The order was amazing.,positive,the order was amazing
+I found the order amazing.,positive,i found the order amazing
+"Overall, the order feels amazing.",positive,overall the order feels amazing
+The product was amazing.,positive,the product was amazing
+I found the product amazing.,positive,i found the product amazing
+"Overall, the product feels amazing.",positive,overall the product feels amazing
+The purchase was amazing.,positive,the purchase was amazing
+I found the purchase amazing.,positive,i found the purchase amazing
+"Overall, the purchase feels amazing.",positive,overall the purchase feels amazing
+The quality was amazing.,positive,the quality was amazing
+I found the quality amazing.,positive,i found the quality amazing
+"Overall, the quality feels amazing.",positive,overall the quality feels amazing
+The service was amazing.,positive,the service was amazing
+I found the service amazing.,positive,i found the service amazing
+"Overall, the service feels amazing.",positive,overall the service feels amazing
+The support was amazing.,positive,the support was amazing
+I found the support amazing.,positive,i found the support amazing
+"Overall, the support feels amazing.",positive,overall the support feels amazing
+The application was excellent.,positive,the application was excellent
+I found the application excellent.,positive,i found the application excellent
+"Overall, the application feels excellent.",positive,overall the application feels excellent
+The delivery was excellent.,positive,the delivery was excellent
+I found the delivery excellent.,positive,i found the delivery excellent
+"Overall, the delivery feels excellent.",positive,overall the delivery feels excellent
+The experience was excellent.,positive,the experience was excellent
+I found the experience excellent.,positive,i found the experience excellent
+"Overall, the experience feels excellent.",positive,overall the experience feels excellent
+The interface was excellent.,positive,the interface was excellent
+I found the interface excellent.,positive,i found the interface excellent
+"Overall, the interface feels excellent.",positive,overall the interface feels excellent
+The order was excellent.,positive,the order was excellent
+I found the order excellent.,positive,i found the order excellent
+"Overall, the order feels excellent.",positive,overall the order feels excellent
+The product was excellent.,positive,the product was excellent
+I found the product excellent.,positive,i found the product excellent
+"Overall, the product feels excellent.",positive,overall the product feels excellent
+The purchase was excellent.,positive,the purchase was excellent
+I found the purchase excellent.,positive,i found the purchase excellent
+"Overall, the purchase feels excellent.",positive,overall the purchase feels excellent
+The quality was excellent.,positive,the quality was excellent
+I found the quality excellent.,positive,i found the quality excellent
+"Overall, the quality feels excellent.",positive,overall the quality feels excellent
+The service was excellent.,positive,the service was excellent
+I found the service excellent.,positive,i found the service excellent
+"Overall, the service feels excellent.",positive,overall the service feels excellent
+The support was excellent.,positive,the support was excellent
+I found the support excellent.,positive,i found the support excellent
+"Overall, the support feels excellent.",positive,overall the support feels excellent
+The application was fantastic.,positive,the application was fantastic
+I found the application fantastic.,positive,i found the application fantastic
+"Overall, the application feels fantastic.",positive,overall the application feels fantastic
+The delivery was fantastic.,positive,the delivery was fantastic
+I found the delivery fantastic.,positive,i found the delivery fantastic
+"Overall, the delivery feels fantastic.",positive,overall the delivery feels fantastic
+The experience was fantastic.,positive,the experience was fantastic
+I found the experience fantastic.,positive,i found the experience fantastic
+"Overall, the experience feels fantastic.",positive,overall the experience feels fantastic
+The interface was fantastic.,positive,the interface was fantastic
+I found the interface fantastic.,positive,i found the interface fantastic
+"Overall, the interface feels fantastic.",positive,overall the interface feels fantastic
+The order was fantastic.,positive,the order was fantastic
+I found the order fantastic.,positive,i found the order fantastic
+"Overall, the order feels fantastic.",positive,overall the order feels fantastic
+The product was fantastic.,positive,the product was fantastic
+I found the product fantastic.,positive,i found the product fantastic
+"Overall, the product feels fantastic.",positive,overall the product feels fantastic
+The purchase was fantastic.,positive,the purchase was fantastic
+I found the purchase fantastic.,positive,i found the purchase fantastic
+"Overall, the purchase feels fantastic.",positive,overall the purchase feels fantastic
+The quality was fantastic.,positive,the quality was fantastic
+I found the quality fantastic.,positive,i found the quality fantastic
+"Overall, the quality feels fantastic.",positive,overall the quality feels fantastic
+The service was fantastic.,positive,the service was fantastic
+I found the service fantastic.,positive,i found the service fantastic
+"Overall, the service feels fantastic.",positive,overall the service feels fantastic
+The support was fantastic.,positive,the support was fantastic
+I found the support fantastic.,positive,i found the support fantastic
+"Overall, the support feels fantastic.",positive,overall the support feels fantastic
+The application was helpful.,positive,the application was helpful
+I found the application helpful.,positive,i found the application helpful
+"Overall, the application feels helpful.",positive,overall the application feels helpful
+The delivery was helpful.,positive,the delivery was helpful
+I found the delivery helpful.,positive,i found the delivery helpful
+"Overall, the delivery feels helpful.",positive,overall the delivery feels helpful
+The experience was helpful.,positive,the experience was helpful
+I found the experience helpful.,positive,i found the experience helpful
+"Overall, the experience feels helpful.",positive,overall the experience feels helpful
+The interface was helpful.,positive,the interface was helpful
+I found the interface helpful.,positive,i found the interface helpful
+"Overall, the interface feels helpful.",positive,overall the interface feels helpful
+The order was helpful.,positive,the order was helpful
+I found the order helpful.,positive,i found the order helpful
+"Overall, the order feels helpful.",positive,overall the order feels helpful
+The product was helpful.,positive,the product was helpful
+I found the product helpful.,positive,i found the product helpful
+"Overall, the product feels helpful.",positive,overall the product feels helpful
+The purchase was helpful.,positive,the purchase was helpful
+I found the purchase helpful.,positive,i found the purchase helpful
+"Overall, the purchase feels helpful.",positive,overall the purchase feels helpful
+The quality was helpful.,positive,the quality was helpful
+I found the quality helpful.,positive,i found the quality helpful
+"Overall, the quality feels helpful.",positive,overall the quality feels helpful
+The service was helpful.,positive,the service was helpful
+I found the service helpful.,positive,i found the service helpful
+"Overall, the service feels helpful.",positive,overall the service feels helpful
+The support was helpful.,positive,the support was helpful
+I found the support helpful.,positive,i found the support helpful
+"Overall, the support feels helpful.",positive,overall the support feels helpful
+The application was impressive.,positive,the application was impressive
+I found the application impressive.,positive,i found the application impressive
+"Overall, the application feels impressive.",positive,overall the application feels impressive
+The delivery was impressive.,positive,the delivery was impressive
+I found the delivery impressive.,positive,i found the delivery impressive
+"Overall, the delivery feels impressive.",positive,overall the delivery feels impressive
+The experience was impressive.,positive,the experience was impressive
+I found the experience impressive.,positive,i found the experience impressive
+"Overall, the experience feels impressive.",positive,overall the experience feels impressive
+The interface was impressive.,positive,the interface was impressive
+I found the interface impressive.,positive,i found the interface impressive
+"Overall, the interface feels impressive.",positive,overall the interface feels impressive
+The order was impressive.,positive,the order was impressive
+I found the order impressive.,positive,i found the order impressive
+"Overall, the order feels impressive.",positive,overall the order feels impressive
+The product was impressive.,positive,the product was impressive
+I found the product impressive.,positive,i found the product impressive
+"Overall, the product feels impressive.",positive,overall the product feels impressive
+The purchase was impressive.,positive,the purchase was impressive
+I found the purchase impressive.,positive,i found the purchase impressive
+"Overall, the purchase feels impressive.",positive,overall the purchase feels impressive
+The quality was impressive.,positive,the quality was impressive
+I found the quality impressive.,positive,i found the quality impressive
+"Overall, the quality feels impressive.",positive,overall the quality feels impressive
+The service was impressive.,positive,the service was impressive
+I found the service impressive.,positive,i found the service impressive
+"Overall, the service feels impressive.",positive,overall the service feels impressive
+The support was impressive.,positive,the support was impressive
+I found the support impressive.,positive,i found the support impressive
+"Overall, the support feels impressive.",positive,overall the support feels impressive
+The application was pleasant.,positive,the application was pleasant
+I found the application pleasant.,positive,i found the application pleasant
+"Overall, the application feels pleasant.",positive,overall the application feels pleasant
+The delivery was pleasant.,positive,the delivery was pleasant
+I found the delivery pleasant.,positive,i found the delivery pleasant
+"Overall, the delivery feels pleasant.",positive,overall the delivery feels pleasant
+The experience was pleasant.,positive,the experience was pleasant
+I found the experience pleasant.,positive,i found the experience pleasant
+"Overall, the experience feels pleasant.",positive,overall the experience feels pleasant
+The interface was pleasant.,positive,the interface was pleasant
+I found the interface pleasant.,positive,i found the interface pleasant
+"Overall, the interface feels pleasant.",positive,overall the interface feels pleasant
+The order was pleasant.,positive,the order was pleasant
+I found the order pleasant.,positive,i found the order pleasant
+"Overall, the order feels pleasant.",positive,overall the order feels pleasant
+The product was pleasant.,positive,the product was pleasant
+I found the product pleasant.,positive,i found the product pleasant
+"Overall, the product feels pleasant.",positive,overall the product feels pleasant
+The purchase was pleasant.,positive,the purchase was pleasant
+I found the purchase pleasant.,positive,i found the purchase pleasant
+"Overall, the purchase feels pleasant.",positive,overall the purchase feels pleasant
+The quality was pleasant.,positive,the quality was pleasant
+I found the quality pleasant.,positive,i found the quality pleasant
+"Overall, the quality feels pleasant.",positive,overall the quality feels pleasant
+The service was pleasant.,positive,the service was pleasant
+I found the service pleasant.,positive,i found the service pleasant
+"Overall, the service feels pleasant.",positive,overall the service feels pleasant
+The support was pleasant.,positive,the support was pleasant
+I found the support pleasant.,positive,i found the support pleasant
+"Overall, the support feels pleasant.",positive,overall the support feels pleasant
+The application was reliable.,positive,the application was reliable
+I found the application reliable.,positive,i found the application reliable
+"Overall, the application feels reliable.",positive,overall the application feels reliable
+The delivery was reliable.,positive,the delivery was reliable
+I found the delivery reliable.,positive,i found the delivery reliable
+"Overall, the delivery feels reliable.",positive,overall the delivery feels reliable
+The experience was reliable.,positive,the experience was reliable
+I found the experience reliable.,positive,i found the experience reliable
+"Overall, the experience feels reliable.",positive,overall the experience feels reliable
+The interface was reliable.,positive,the interface was reliable
+I found the interface reliable.,positive,i found the interface reliable
+"Overall, the interface feels reliable.",positive,overall the interface feels reliable
+The order was reliable.,positive,the order was reliable
+I found the order reliable.,positive,i found the order reliable
+"Overall, the order feels reliable.",positive,overall the order feels reliable
+The product was reliable.,positive,the product was reliable
+I found the product reliable.,positive,i found the product reliable
+"Overall, the product feels reliable.",positive,overall the product feels reliable
+The purchase was reliable.,positive,the purchase was reliable
+I found the purchase reliable.,positive,i found the purchase reliable
+"Overall, the purchase feels reliable.",positive,overall the purchase feels reliable
+The quality was reliable.,positive,the quality was reliable
+I found the quality reliable.,positive,i found the quality reliable
+"Overall, the quality feels reliable.",positive,overall the quality feels reliable
+The service was reliable.,positive,the service was reliable
+I found the service reliable.,positive,i found the service reliable
+"Overall, the service feels reliable.",positive,overall the service feels reliable
+The support was reliable.,positive,the support was reliable
+I found the support reliable.,positive,i found the support reliable
+"Overall, the support feels reliable.",positive,overall the support feels reliable
+The application was satisfying.,positive,the application was satisfying
+I found the application satisfying.,positive,i found the application satisfying
+"Overall, the application feels satisfying.",positive,overall the application feels satisfying
+The delivery was satisfying.,positive,the delivery was satisfying
+I found the delivery satisfying.,positive,i found the delivery satisfying
+"Overall, the delivery feels satisfying.",positive,overall the delivery feels satisfying
+The experience was satisfying.,positive,the experience was satisfying
+I found the experience satisfying.,positive,i found the experience satisfying
+"Overall, the experience feels satisfying.",positive,overall the experience feels satisfying
+The interface was satisfying.,positive,the interface was satisfying
+I found the interface satisfying.,positive,i found the interface satisfying
+"Overall, the interface feels satisfying.",positive,overall the interface feels satisfying
+The order was satisfying.,positive,the order was satisfying
+I found the order satisfying.,positive,i found the order satisfying
+"Overall, the order feels satisfying.",positive,overall the order feels satisfying
+The product was satisfying.,positive,the product was satisfying
+I found the product satisfying.,positive,i found the product satisfying
+"Overall, the product feels satisfying.",positive,overall the product feels satisfying
+The purchase was satisfying.,positive,the purchase was satisfying
+I found the purchase satisfying.,positive,i found the purchase satisfying
+"Overall, the purchase feels satisfying.",positive,overall the purchase feels satisfying
+The quality was satisfying.,positive,the quality was satisfying
+I found the quality satisfying.,positive,i found the quality satisfying
+"Overall, the quality feels satisfying.",positive,overall the quality feels satisfying
+The service was satisfying.,positive,the service was satisfying
+I found the service satisfying.,positive,i found the service satisfying
+"Overall, the service feels satisfying.",positive,overall the service feels satisfying
+The support was satisfying.,positive,the support was satisfying
+I found the support satisfying.,positive,i found the support satisfying
+"Overall, the support feels satisfying.",positive,overall the support feels satisfying
+The application was smooth.,positive,the application was smooth
+I found the application smooth.,positive,i found the application smooth
+"Overall, the application feels smooth.",positive,overall the application feels smooth
+The delivery was smooth.,positive,the delivery was smooth
+I found the delivery smooth.,positive,i found the delivery smooth
+"Overall, the delivery feels smooth.",positive,overall the delivery feels smooth
+The experience was smooth.,positive,the experience was smooth
+I found the experience smooth.,positive,i found the experience smooth
+"Overall, the experience feels smooth.",positive,overall the experience feels smooth
+The interface was smooth.,positive,the interface was smooth
+I found the interface smooth.,positive,i found the interface smooth
+"Overall, the interface feels smooth.",positive,overall the interface feels smooth
+The order was smooth.,positive,the order was smooth
+I found the order smooth.,positive,i found the order smooth
+"Overall, the order feels smooth.",positive,overall the order feels smooth
+The product was smooth.,positive,the product was smooth
+I found the product smooth.,positive,i found the product smooth
+"Overall, the product feels smooth.",positive,overall the product feels smooth
+The purchase was smooth.,positive,the purchase was smooth
+I found the purchase smooth.,positive,i found the purchase smooth
+"Overall, the purchase feels smooth.",positive,overall the purchase feels smooth
+The quality was smooth.,positive,the quality was smooth
+I found the quality smooth.,positive,i found the quality smooth
+"Overall, the quality feels smooth.",positive,overall the quality feels smooth
+The service was smooth.,positive,the service was smooth
+I found the service smooth.,positive,i found the service smooth
+"Overall, the service feels smooth.",positive,overall the service feels smooth
+The support was smooth.,positive,the support was smooth
+I found the support smooth.,positive,i found the support smooth
+"Overall, the support feels smooth.",positive,overall the support feels smooth
+The application was wonderful.,positive,the application was wonderful
+I found the application wonderful.,positive,i found the application wonderful
+"Overall, the application feels wonderful.",positive,overall the application feels wonderful
+The delivery was wonderful.,positive,the delivery was wonderful
+I found the delivery wonderful.,positive,i found the delivery wonderful
+"Overall, the delivery feels wonderful.",positive,overall the delivery feels wonderful
+The experience was wonderful.,positive,the experience was wonderful
+I found the experience wonderful.,positive,i found the experience wonderful
+"Overall, the experience feels wonderful.",positive,overall the experience feels wonderful
+The interface was wonderful.,positive,the interface was wonderful
+I found the interface wonderful.,positive,i found the interface wonderful
+"Overall, the interface feels wonderful.",positive,overall the interface feels wonderful
+The order was wonderful.,positive,the order was wonderful
+I found the order wonderful.,positive,i found the order wonderful
+"Overall, the order feels wonderful.",positive,overall the order feels wonderful
+The product was wonderful.,positive,the product was wonderful
+I found the product wonderful.,positive,i found the product wonderful
+"Overall, the product feels wonderful.",positive,overall the product feels wonderful
+The purchase was wonderful.,positive,the purchase was wonderful
+I found the purchase wonderful.,positive,i found the purchase wonderful
+"Overall, the purchase feels wonderful.",positive,overall the purchase feels wonderful
+The quality was wonderful.,positive,the quality was wonderful
+I found the quality wonderful.,positive,i found the quality wonderful
+"Overall, the quality feels wonderful.",positive,overall the quality feels wonderful
+The service was wonderful.,positive,the service was wonderful
+I found the service wonderful.,positive,i found the service wonderful
+"Overall, the service feels wonderful.",positive,overall the service feels wonderful
+The support was wonderful.,positive,the support was wonderful
+I found the support wonderful.,positive,i found the support wonderful
+"Overall, the support feels wonderful.",positive,overall the support feels wonderful
+The application was awful.,negative,the application was awful
+I found the application awful.,negative,i found the application awful
+"Overall, the application feels awful.",negative,overall the application feels awful
+The delivery was awful.,negative,the delivery was awful
+I found the delivery awful.,negative,i found the delivery awful
+"Overall, the delivery feels awful.",negative,overall the delivery feels awful
+The experience was awful.,negative,the experience was awful
+I found the experience awful.,negative,i found the experience awful
+"Overall, the experience feels awful.",negative,overall the experience feels awful
+The interface was awful.,negative,the interface was awful
+I found the interface awful.,negative,i found the interface awful
+"Overall, the interface feels awful.",negative,overall the interface feels awful
+The order was awful.,negative,the order was awful
+I found the order awful.,negative,i found the order awful
+"Overall, the order feels awful.",negative,overall the order feels awful
+The product was awful.,negative,the product was awful
+I found the product awful.,negative,i found the product awful
+"Overall, the product feels awful.",negative,overall the product feels awful
+The purchase was awful.,negative,the purchase was awful
+I found the purchase awful.,negative,i found the purchase awful
+"Overall, the purchase feels awful.",negative,overall the purchase feels awful
+The quality was awful.,negative,the quality was awful
+I found the quality awful.,negative,i found the quality awful
+"Overall, the quality feels awful.",negative,overall the quality feels awful
+The service was awful.,negative,the service was awful
+I found the service awful.,negative,i found the service awful
+"Overall, the service feels awful.",negative,overall the service feels awful
+The support was awful.,negative,the support was awful
+I found the support awful.,negative,i found the support awful
+"Overall, the support feels awful.",negative,overall the support feels awful
+The application was confusing.,negative,the application was confusing
+I found the application confusing.,negative,i found the application confusing
+"Overall, the application feels confusing.",negative,overall the application feels confusing
+The delivery was confusing.,negative,the delivery was confusing
+I found the delivery confusing.,negative,i found the delivery confusing
+"Overall, the delivery feels confusing.",negative,overall the delivery feels confusing
+The experience was confusing.,negative,the experience was confusing
+I found the experience confusing.,negative,i found the experience confusing
+"Overall, the experience feels confusing.",negative,overall the experience feels confusing
+The interface was confusing.,negative,the interface was confusing
+I found the interface confusing.,negative,i found the interface confusing
+"Overall, the interface feels confusing.",negative,overall the interface feels confusing
+The order was confusing.,negative,the order was confusing
+I found the order confusing.,negative,i found the order confusing
+"Overall, the order feels confusing.",negative,overall the order feels confusing
+The product was confusing.,negative,the product was confusing
+I found the product confusing.,negative,i found the product confusing
+"Overall, the product feels confusing.",negative,overall the product feels confusing
+The purchase was confusing.,negative,the purchase was confusing
+I found the purchase confusing.,negative,i found the purchase confusing
+"Overall, the purchase feels confusing.",negative,overall the purchase feels confusing
+The quality was confusing.,negative,the quality was confusing
+I found the quality confusing.,negative,i found the quality confusing
+"Overall, the quality feels confusing.",negative,overall the quality feels confusing
+The service was confusing.,negative,the service was confusing
+I found the service confusing.,negative,i found the service confusing
+"Overall, the service feels confusing.",negative,overall the service feels confusing
+The support was confusing.,negative,the support was confusing
+I found the support confusing.,negative,i found the support confusing
+"Overall, the support feels confusing.",negative,overall the support feels confusing
+The application was disappointing.,negative,the application was disappointing
+I found the application disappointing.,negative,i found the application disappointing
+"Overall, the application feels disappointing.",negative,overall the application feels disappointing
+The delivery was disappointing.,negative,the delivery was disappointing
+I found the delivery disappointing.,negative,i found the delivery disappointing
+"Overall, the delivery feels disappointing.",negative,overall the delivery feels disappointing
+The experience was disappointing.,negative,the experience was disappointing
+I found the experience disappointing.,negative,i found the experience disappointing
+"Overall, the experience feels disappointing.",negative,overall the experience feels disappointing
+The interface was disappointing.,negative,the interface was disappointing
+I found the interface disappointing.,negative,i found the interface disappointing
+"Overall, the interface feels disappointing.",negative,overall the interface feels disappointing
+The order was disappointing.,negative,the order was disappointing
+I found the order disappointing.,negative,i found the order disappointing
+"Overall, the order feels disappointing.",negative,overall the order feels disappointing
+The product was disappointing.,negative,the product was disappointing
+I found the product disappointing.,negative,i found the product disappointing
+"Overall, the product feels disappointing.",negative,overall the product feels disappointing
+The purchase was disappointing.,negative,the purchase was disappointing
+I found the purchase disappointing.,negative,i found the purchase disappointing
+"Overall, the purchase feels disappointing.",negative,overall the purchase feels disappointing
+The quality was disappointing.,negative,the quality was disappointing
+I found the quality disappointing.,negative,i found the quality disappointing
+"Overall, the quality feels disappointing.",negative,overall the quality feels disappointing
+The service was disappointing.,negative,the service was disappointing
+I found the service disappointing.,negative,i found the service disappointing
+"Overall, the service feels disappointing.",negative,overall the service feels disappointing
+The support was disappointing.,negative,the support was disappointing
+I found the support disappointing.,negative,i found the support disappointing
+"Overall, the support feels disappointing.",negative,overall the support feels disappointing
+The application was frustrating.,negative,the application was frustrating
+I found the application frustrating.,negative,i found the application frustrating
+"Overall, the application feels frustrating.",negative,overall the application feels frustrating
+The delivery was frustrating.,negative,the delivery was frustrating
+I found the delivery frustrating.,negative,i found the delivery frustrating
+"Overall, the delivery feels frustrating.",negative,overall the delivery feels frustrating
+The experience was frustrating.,negative,the experience was frustrating
+I found the experience frustrating.,negative,i found the experience frustrating
+"Overall, the experience feels frustrating.",negative,overall the experience feels frustrating
+The interface was frustrating.,negative,the interface was frustrating
+I found the interface frustrating.,negative,i found the interface frustrating
+"Overall, the interface feels frustrating.",negative,overall the interface feels frustrating
+The order was frustrating.,negative,the order was frustrating
+I found the order frustrating.,negative,i found the order frustrating
+"Overall, the order feels frustrating.",negative,overall the order feels frustrating
+The product was frustrating.,negative,the product was frustrating
+I found the product frustrating.,negative,i found the product frustrating
+"Overall, the product feels frustrating.",negative,overall the product feels frustrating
+The purchase was frustrating.,negative,the purchase was frustrating
+I found the purchase frustrating.,negative,i found the purchase frustrating
+"Overall, the purchase feels frustrating.",negative,overall the purchase feels frustrating
+The quality was frustrating.,negative,the quality was frustrating
+I found the quality frustrating.,negative,i found the quality frustrating
+"Overall, the quality feels frustrating.",negative,overall the quality feels frustrating
+The service was frustrating.,negative,the service was frustrating
+I found the service frustrating.,negative,i found the service frustrating
+"Overall, the service feels frustrating.",negative,overall the service feels frustrating
+The support was frustrating.,negative,the support was frustrating
+I found the support frustrating.,negative,i found the support frustrating
+"Overall, the support feels frustrating.",negative,overall the support feels frustrating
+The application was horrible.,negative,the application was horrible
+I found the application horrible.,negative,i found the application horrible
+"Overall, the application feels horrible.",negative,overall the application feels horrible
+The delivery was horrible.,negative,the delivery was horrible
+I found the delivery horrible.,negative,i found the delivery horrible
+"Overall, the delivery feels horrible.",negative,overall the delivery feels horrible
+The experience was horrible.,negative,the experience was horrible
+I found the experience horrible.,negative,i found the experience horrible
+"Overall, the experience feels horrible.",negative,overall the experience feels horrible
+The interface was horrible.,negative,the interface was horrible
+I found the interface horrible.,negative,i found the interface horrible
+"Overall, the interface feels horrible.",negative,overall the interface feels horrible
+The order was horrible.,negative,the order was horrible
+I found the order horrible.,negative,i found the order horrible
+"Overall, the order feels horrible.",negative,overall the order feels horrible
+The product was horrible.,negative,the product was horrible
+I found the product horrible.,negative,i found the product horrible
+"Overall, the product feels horrible.",negative,overall the product feels horrible
+The purchase was horrible.,negative,the purchase was horrible
+I found the purchase horrible.,negative,i found the purchase horrible
+"Overall, the purchase feels horrible.",negative,overall the purchase feels horrible
+The quality was horrible.,negative,the quality was horrible
+I found the quality horrible.,negative,i found the quality horrible
+"Overall, the quality feels horrible.",negative,overall the quality feels horrible
+The service was horrible.,negative,the service was horrible
+I found the service horrible.,negative,i found the service horrible
+"Overall, the service feels horrible.",negative,overall the service feels horrible
+The support was horrible.,negative,the support was horrible
+I found the support horrible.,negative,i found the support horrible
+"Overall, the support feels horrible.",negative,overall the support feels horrible
+The application was inconvenient.,negative,the application was inconvenient
+I found the application inconvenient.,negative,i found the application inconvenient
+"Overall, the application feels inconvenient.",negative,overall the application feels inconvenient
+The delivery was inconvenient.,negative,the delivery was inconvenient
+I found the delivery inconvenient.,negative,i found the delivery inconvenient
+"Overall, the delivery feels inconvenient.",negative,overall the delivery feels inconvenient
+The experience was inconvenient.,negative,the experience was inconvenient
+I found the experience inconvenient.,negative,i found the experience inconvenient
+"Overall, the experience feels inconvenient.",negative,overall the experience feels inconvenient
+The interface was inconvenient.,negative,the interface was inconvenient
+I found the interface inconvenient.,negative,i found the interface inconvenient
+"Overall, the interface feels inconvenient.",negative,overall the interface feels inconvenient
+The order was inconvenient.,negative,the order was inconvenient
+I found the order inconvenient.,negative,i found the order inconvenient
+"Overall, the order feels inconvenient.",negative,overall the order feels inconvenient
+The product was inconvenient.,negative,the product was inconvenient
+I found the product inconvenient.,negative,i found the product inconvenient
+"Overall, the product feels inconvenient.",negative,overall the product feels inconvenient
+The purchase was inconvenient.,negative,the purchase was inconvenient
+I found the purchase inconvenient.,negative,i found the purchase inconvenient
+"Overall, the purchase feels inconvenient.",negative,overall the purchase feels inconvenient
+The quality was inconvenient.,negative,the quality was inconvenient
+I found the quality inconvenient.,negative,i found the quality inconvenient
+"Overall, the quality feels inconvenient.",negative,overall the quality feels inconvenient
+The service was inconvenient.,negative,the service was inconvenient
+I found the service inconvenient.,negative,i found the service inconvenient
+"Overall, the service feels inconvenient.",negative,overall the service feels inconvenient
+The support was inconvenient.,negative,the support was inconvenient
+I found the support inconvenient.,negative,i found the support inconvenient
+"Overall, the support feels inconvenient.",negative,overall the support feels inconvenient
+The application was unhelpful.,negative,the application was unhelpful
+I found the application unhelpful.,negative,i found the application unhelpful
+"Overall, the application feels unhelpful.",negative,overall the application feels unhelpful
+The delivery was unhelpful.,negative,the delivery was unhelpful
+I found the delivery unhelpful.,negative,i found the delivery unhelpful
+"Overall, the delivery feels unhelpful.",negative,overall the delivery feels unhelpful
+The experience was unhelpful.,negative,the experience was unhelpful
+I found the experience unhelpful.,negative,i found the experience unhelpful
+"Overall, the experience feels unhelpful.",negative,overall the experience feels unhelpful
+The interface was unhelpful.,negative,the interface was unhelpful
+I found the interface unhelpful.,negative,i found the interface unhelpful
+"Overall, the interface feels unhelpful.",negative,overall the interface feels unhelpful
+The order was unhelpful.,negative,the order was unhelpful
+I found the order unhelpful.,negative,i found the order unhelpful
+"Overall, the order feels unhelpful.",negative,overall the order feels unhelpful
+The product was unhelpful.,negative,the product was unhelpful
+I found the product unhelpful.,negative,i found the product unhelpful
+"Overall, the product feels unhelpful.",negative,overall the product feels unhelpful
+The purchase was unhelpful.,negative,the purchase was unhelpful
+I found the purchase unhelpful.,negative,i found the purchase unhelpful
+"Overall, the purchase feels unhelpful.",negative,overall the purchase feels unhelpful
+The quality was unhelpful.,negative,the quality was unhelpful
+I found the quality unhelpful.,negative,i found the quality unhelpful
+"Overall, the quality feels unhelpful.",negative,overall the quality feels unhelpful
+The service was unhelpful.,negative,the service was unhelpful
+I found the service unhelpful.,negative,i found the service unhelpful
+"Overall, the service feels unhelpful.",negative,overall the service feels unhelpful
+The support was unhelpful.,negative,the support was unhelpful
+I found the support unhelpful.,negative,i found the support unhelpful
+"Overall, the support feels unhelpful.",negative,overall the support feels unhelpful
+The application was unreliable.,negative,the application was unreliable
+I found the application unreliable.,negative,i found the application unreliable
+"Overall, the application feels unreliable.",negative,overall the application feels unreliable
+The delivery was unreliable.,negative,the delivery was unreliable
+I found the delivery unreliable.,negative,i found the delivery unreliable
+"Overall, the delivery feels unreliable.",negative,overall the delivery feels unreliable
+The experience was unreliable.,negative,the experience was unreliable
+I found the experience unreliable.,negative,i found the experience unreliable
+"Overall, the experience feels unreliable.",negative,overall the experience feels unreliable
+The interface was unreliable.,negative,the interface was unreliable
+I found the interface unreliable.,negative,i found the interface unreliable
+"Overall, the interface feels unreliable.",negative,overall the interface feels unreliable
+The order was unreliable.,negative,the order was unreliable
+I found the order unreliable.,negative,i found the order unreliable
+"Overall, the order feels unreliable.",negative,overall the order feels unreliable
+The product was unreliable.,negative,the product was unreliable
+I found the product unreliable.,negative,i found the product unreliable
+"Overall, the product feels unreliable.",negative,overall the product feels unreliable
+The purchase was unreliable.,negative,the purchase was unreliable
+I found the purchase unreliable.,negative,i found the purchase unreliable
+"Overall, the purchase feels unreliable.",negative,overall the purchase feels unreliable
+The quality was unreliable.,negative,the quality was unreliable
+I found the quality unreliable.,negative,i found the quality unreliable
+"Overall, the quality feels unreliable.",negative,overall the quality feels unreliable
+The service was unreliable.,negative,the service was unreliable
+I found the service unreliable.,negative,i found the service unreliable
+"Overall, the service feels unreliable.",negative,overall the service feels unreliable
+The support was unreliable.,negative,the support was unreliable
+I found the support unreliable.,negative,i found the support unreliable
+"Overall, the support feels unreliable.",negative,overall the support feels unreliable
+The application was unsatisfactory.,negative,the application was unsatisfactory
+I found the application unsatisfactory.,negative,i found the application unsatisfactory
+"Overall, the application feels unsatisfactory.",negative,overall the application feels unsatisfactory
+The delivery was unsatisfactory.,negative,the delivery was unsatisfactory
+I found the delivery unsatisfactory.,negative,i found the delivery unsatisfactory
+"Overall, the delivery feels unsatisfactory.",negative,overall the delivery feels unsatisfactory
+The experience was unsatisfactory.,negative,the experience was unsatisfactory
+I found the experience unsatisfactory.,negative,i found the experience unsatisfactory
+"Overall, the experience feels unsatisfactory.",negative,overall the experience feels unsatisfactory
+The interface was unsatisfactory.,negative,the interface was unsatisfactory
+I found the interface unsatisfactory.,negative,i found the interface unsatisfactory
+"Overall, the interface feels unsatisfactory.",negative,overall the interface feels unsatisfactory
+The order was unsatisfactory.,negative,the order was unsatisfactory
+I found the order unsatisfactory.,negative,i found the order unsatisfactory
+"Overall, the order feels unsatisfactory.",negative,overall the order feels unsatisfactory
+The product was unsatisfactory.,negative,the product was unsatisfactory
+I found the product unsatisfactory.,negative,i found the product unsatisfactory
+"Overall, the product feels unsatisfactory.",negative,overall the product feels unsatisfactory
+The purchase was unsatisfactory.,negative,the purchase was unsatisfactory
+I found the purchase unsatisfactory.,negative,i found the purchase unsatisfactory
+"Overall, the purchase feels unsatisfactory.",negative,overall the purchase feels unsatisfactory
+The quality was unsatisfactory.,negative,the quality was unsatisfactory
+I found the quality unsatisfactory.,negative,i found the quality unsatisfactory
+"Overall, the quality feels unsatisfactory.",negative,overall the quality feels unsatisfactory
+The service was unsatisfactory.,negative,the service was unsatisfactory
+I found the service unsatisfactory.,negative,i found the service unsatisfactory
+"Overall, the service feels unsatisfactory.",negative,overall the service feels unsatisfactory
+The support was unsatisfactory.,negative,the support was unsatisfactory
+I found the support unsatisfactory.,negative,i found the support unsatisfactory
+"Overall, the support feels unsatisfactory.",negative,overall the support feels unsatisfactory
+The application was terrible.,negative,the application was terrible
+I found the application terrible.,negative,i found the application terrible
+"Overall, the application feels terrible.",negative,overall the application feels terrible
+The delivery was terrible.,negative,the delivery was terrible
+I found the delivery terrible.,negative,i found the delivery terrible
+"Overall, the delivery feels terrible.",negative,overall the delivery feels terrible
+The experience was terrible.,negative,the experience was terrible
+I found the experience terrible.,negative,i found the experience terrible
+"Overall, the experience feels terrible.",negative,overall the experience feels terrible
+The interface was terrible.,negative,the interface was terrible
+I found the interface terrible.,negative,i found the interface terrible
+"Overall, the interface feels terrible.",negative,overall the interface feels terrible
+The order was terrible.,negative,the order was terrible
+I found the order terrible.,negative,i found the order terrible
+"Overall, the order feels terrible.",negative,overall the order feels terrible
+The product was terrible.,negative,the product was terrible
+I found the product terrible.,negative,i found the product terrible
+"Overall, the product feels terrible.",negative,overall the product feels terrible
+The purchase was terrible.,negative,the purchase was terrible
+I found the purchase terrible.,negative,i found the purchase terrible
+"Overall, the purchase feels terrible.",negative,overall the purchase feels terrible
+The quality was terrible.,negative,the quality was terrible
+I found the quality terrible.,negative,i found the quality terrible
+"Overall, the quality feels terrible.",negative,overall the quality feels terrible
+The service was terrible.,negative,the service was terrible
+I found the service terrible.,negative,i found the service terrible
+"Overall, the service feels terrible.",negative,overall the service feels terrible
+The support was terrible.,negative,the support was terrible
+I found the support terrible.,negative,i found the support terrible
+"Overall, the support feels terrible.",negative,overall the support feels terrible
